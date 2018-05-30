@@ -1,0 +1,6 @@
+﻿  main.cpp
+  Generisanje.cpp
+d:\materijali\ra247-2016\workspace\consoleapplication2\consoleapplication1\generisanje.cpp(14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  ConsoleApplication1.vcxproj -> D:\materijali\RA247-2016\Workspace\ConsoleApplication2\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> D:\materijali\RA247-2016\Workspace\ConsoleApplication2\Debug\ConsoleApplication1.pdb (Full PDB)
